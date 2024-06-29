@@ -14,7 +14,7 @@ android {
         compileSdk rootProject.ext.compileSdkVersion
 
         versionCode 150
-        versionName "3.0.1-beta"
+        versionName "3.0.1-beta_R9"
         multiDexEnabled true
 
         resValue "string", "authorities", defaultConfig.applicationId + '.debug.cameraupload.provider'
